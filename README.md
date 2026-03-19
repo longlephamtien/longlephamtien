@@ -2,8 +2,6 @@
 
 ### An undergraduate student at HCMUT (VNU-HCM) passionate about artificial intelligence, machine learning, and data analytics
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=longlephamtien&label=Profile views&color=0e75b6&style=flat" alt="longlephamtien" /> </p>
-
 - 🌱 I'm currently learning **AWS and Azure**
 
 - 💬 Ask me about **React, NestJS, PostgreSQL, TensorFlow, and Scikit-learn**
