@@ -2,8 +2,6 @@
 
 ### An undergraduate student at HCMUT (VNU-HCM) passionate about artificial intelligence, machine learning, and data analytics
 
-- 🌱 I'm currently learning **AWS and Azure**
-
 - 💬 Ask me about **React, NestJS, PostgreSQL, TensorFlow, and Scikit-learn**
 
 - 📫 How to reach me **lephamtienlong@gmail.com**
